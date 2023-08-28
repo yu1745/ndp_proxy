@@ -6,7 +6,6 @@ import (
 	"log"
 	"net"
 	"net/http"
-	"os/exec"
 	"strconv"
 
 	"github.com/yu1745/ndp_proxy/pkg/C"
